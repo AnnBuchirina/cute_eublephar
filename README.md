@@ -1,10 +1,8 @@
 <header>
 Милые животные эублефары
 
-
 </header>
 
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
