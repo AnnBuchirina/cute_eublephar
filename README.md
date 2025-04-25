@@ -16,7 +16,7 @@ content="width=device-widht,initial-scale=1/0">
 <h2>Надеюсь что этот сайт будет супер полезный для вас!</h2>
 <h3 style="color: coral;">Цель:узнать о жизни эублефаров</h3>
 <p>Эублефары очень любят общение с людьми. В отличие от многих других рептилий эублефары очень быстро привыкают у человеку и охотно идут на контакт.</p>
-<img src="https://www.happygeckofarm.com/images/Statyi/09.jpg" alt="sedrfgsxdcfgxdcfgv">
+<img src="https://fs.znanio.ru/d5af0e/ff/0d/f94102f15eb4386c241ed55999306979c7.jpg" alt="sedrfgsxdcfgxdcfgv">
 <li><a href="https://forms.gle/Vh7q8cyS4YHsCePJ9"> Здесь викторина.</a></li>
 </body>
 </html>
